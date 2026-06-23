@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+button {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+    text-align: center;
+    padding-top: 6px;
+}
+
+.black {
+    background-color: #050505;
+    color: white;
+    border-style: 
+}
+
+.yellow {
+    background-color: #f3f705;
+    color: #050505;
+}
